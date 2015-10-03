@@ -1,35 +1,26 @@
-title: "Welcome to Spress"
-description: "A site creted by Spress"
-logo: spresso-logo.png
+title: "Gries, this is me"
+description: "All about gries aka Christoph Rosse"
+logo: "logo.png"
 
 # Your site's domain. E.g: http://yoursite.com
 url: ""
 
 # Comments in posts
 comments:
-    enabled: true
+    enabled: false
     disqus_shortname:
 
 # Information about author
 author:
-    name: Your Name
+    name: gries
 
     # Social networks
-    twitter: spress_cms
-    github: https://github.com/spress/Spress
-    bitbucket:
-    facebook:
-    linkedin:
-    gplus:
-    youtube:
+    twitter: griesx
+    github: https://github.com/gries
 
 # RSS feed
 feed:
     max_item: 10
-
-# Facebook Open Graph
-open_graph:
-    locale: en_US
 
 # Code highlight for <pre> and <code> tags
 # Powered by http://highlightjs.org/
@@ -42,9 +33,10 @@ bing_verify:
 # Page menus
 top_menu:
     - { name: Home, url: / }
+    - { name: CV, url: /cv }
 
 bottom_menu:
-    - { name: Go to Spresso theme web, url: https://github.com/yosymfony/Spress-theme-spresso }
+    - { name: my github, url: https://github.com/gries }
 
 paginate: 5
 
