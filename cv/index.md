@@ -35,6 +35,7 @@ description: "My CV"
 * various caching techniques (ESI, nginx-proxy)
 * puppet
 * vagrant
+* docker
 
 ### Professional projects
 ***
